@@ -1,0 +1,13 @@
+.designApp{
+ -fx-background-color: #2D2D2D
+}
+.menuBarColor{
+ -fx-background-color: #212121
+}
+.textGreen{
+-fx-text-fill: #27AE60
+ /* -fx-background-color: #c4045e */
+}
+.labelAll{
+-fx-text-fill: #27AE60
+}
